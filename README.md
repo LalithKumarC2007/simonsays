@@ -51,22 +51,14 @@ Simon-Says-Game/
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/your-username/simonsays.git
 ```
 
 2. Open the project folder.
 
 3. Run the `index.html` file in your browser.
 
----
 
-## 📸 Screenshot
-
-*Add your game screenshot here*
-
-```bash
-screenshot.png
-```
 
 ---
 
@@ -81,7 +73,7 @@ screenshot.png
 
 ## 👨‍💻 Author
 
-Developed by **Lalith Kumar**
+Developed by **Lalith Kumar C**
 
 ---
 
