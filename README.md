@@ -1,3 +1,5 @@
+<img width="450" height="500" alt="Image" src="https://github.com/user-attachments/assets/b5bc131e-3b8e-48f7-980c-a020c34f80f0" />
+
 # 🎮 Simon Says Game
 
 A fun and interactive **Simon Says memory game** built using **HTML, CSS, and JavaScript**.
